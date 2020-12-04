@@ -953,3 +953,15 @@ amp-nested-menu, amp-nested-menu [amp-nested-submenu] {
     margin-top: .3rem;
     margin-left: 0rem;
 }
+
+.ImageSelfie { width: 213px !important;}
+.ImgSelfieCliente { width: 170px; }
+/* Img Profile */
+.img-thumbnail-Cliente {
+    padding: .2rem;
+    background-color: #fff;
+    border: 0.21rem solid var(--primary);
+    border-radius: 7rem;
+    max-width: 100%;
+    height: auto;
+}   
